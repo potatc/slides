@@ -4,7 +4,7 @@
 
 **A free, open-source workspace for creating, editing and presenting slides.**
 
-`Windows & Web` · `English & Chinese UI` · `MIT Open Source`
+`Windows & Web` · `English & 简体中文 UI` · `MIT Open Source`
 
 [Open in your browser](https://slides.potatc.org/) · [Download for Windows](https://github.com/potatc/slides/releases/tag/EXE1.0) 
 
