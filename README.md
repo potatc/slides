@@ -111,4 +111,4 @@ Choose how you want to use Potatc Slides:
 
 **Your ideas. Your canvas.**
 
-MIT Open Source
+MIT Open Source - Source code is the .html in release
