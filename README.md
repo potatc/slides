@@ -91,22 +91,6 @@ Choose how you want to use Potatc Slides:
 | **Exported HTML presentation** | Share a standalone player for your finished presentation. |
 | **Print / PDF** | Produce a static copy for reading, printing or distribution. |
 
-## Useful shortcuts
-
-| While editing | Action |
-| :--- | :--- |
-| `Ctrl + S` | Save the project |
-| `Ctrl + Z` / `Ctrl + Y` | Undo / redo |
-| `Ctrl + D` | Duplicate selected objects or the current slide |
-| `Ctrl + F` | Find and replace |
-| `F5` | Start presenting |
-
-| While presenting | Action |
-| :--- | :--- |
-| `Space` / `→` | Advance to the next animation or slide |
-| `←` | Go to the previous slide |
-| `Esc` | Exit the presentation |
-
 ---
 
 **Your ideas. Your canvas.**
